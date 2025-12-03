@@ -10,7 +10,7 @@ A simple file manager script for Termux Android terminal.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/termux-file-manager.git
+git clone https://github.com/gotssl95/termux-file-manager.git
 cd termux-file-manager
 chmod +x manager.sh
 ./manager.sh
